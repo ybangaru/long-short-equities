@@ -10,3 +10,6 @@ Firstly install the modules with the help of requirements.txt file by using the 
 #### "pip install -r requirements.txt"
 To run the script, use the following command:
 #### "streamlit run long-short-equity.py"
+
+
+![](gif_lse.gif)
