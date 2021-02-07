@@ -11,6 +11,7 @@ Firstly install the modules with the help of requirements.txt file by using the 
 To run the script, use the following command:
 #### "streamlit run long-short-equity.py"
 
+Disclaimer: The project is only meant for fun, it involves no investment advice.
 
 ## Preview of the project
 
