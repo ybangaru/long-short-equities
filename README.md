@@ -12,6 +12,6 @@ To run the script, use the following command:
 #### "streamlit run long-short-equity.py"
 
 
-###Preview of the project
+## Preview of the project
 
 ![](gif_lse.gif)
