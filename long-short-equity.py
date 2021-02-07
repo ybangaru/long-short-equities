@@ -177,7 +177,7 @@ def basic_template(root):
     st.title("Long-Short-Equity-Pipeline!!")
 
     end_date = datetime.date.today() - datetime.timedelta(days=1)
-    start_date = end_date- datetime.timedelta(days=1)
+    start_date = end_date- datetime.timedelta(days=90)
 
     start_date = st.date_input('Start date', start_date)
     end_date = st.date_input('End date', end_date)
