@@ -14,5 +14,6 @@ To run the script, use the following command:
 Disclaimer: The project is only meant for fun and serves as a simple representative strategy+backtester for budding systematic trading enthusiasts, it involves no investment advice.
 
 ## Preview of the project
+![604931f05f73d371179235](https://user-images.githubusercontent.com/45936015/110696664-5c541000-8211-11eb-85f8-93fad0fb8a23.gif)
 
-![](gif_lse.gif)
+
